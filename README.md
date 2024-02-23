@@ -13,3 +13,8 @@ The primary datas used for this analysis are "world_country_stats.csv", "world_p
 - MySQL (Data Cleaning and Preparation)
 - MySQL (Data Analysis)
 - Power Bi (Visualization)
+
+### Data Cleaning and Preparation
+---
+
+In the initial data preparation phase, we completed the following task;
