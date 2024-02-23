@@ -18,3 +18,5 @@ The primary datas used for this analysis are "world_country_stats.csv", "world_p
 ---
 
 In the initial data preparation phase, we completed the following task;
+1. Data loading and inspection
+2. Handling missing data
